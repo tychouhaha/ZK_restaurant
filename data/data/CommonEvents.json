@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":250,"indent":0,"parameters":[{"name":"Cursor1","volume":90,"pitch":100,"pan":0}]},{"code":230,"indent":0,"parameters":[60]},{"code":111,"indent":0,"parameters":[3,0,1]},{"code":355,"indent":1,"parameters":["var scene = SceneManager._scene;"]},{"code":655,"indent":1,"parameters":["     var msgWin = scene._messageWindow;"]},{"code":655,"indent":1,"parameters":["     if (msgWin && msgWin._numberWindow) {"]},{"code":655,"indent":1,"parameters":["         var numWin = msgWin._numberWindow;"]},{"code":655,"indent":1,"parameters":["         if (numWin.active) {"]},{"code":655,"indent":1,"parameters":["             numWin.processOk();     // 幫數字視窗按 Enter"]},{"code":655,"indent":1,"parameters":["         }"]},{"code":655,"indent":1,"parameters":["     }"]},{"code":124,"indent":1,"parameters":[1]},{"code":121,"indent":1,"parameters":[12,12,1]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"計時中","switchId":12,"trigger":2},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
